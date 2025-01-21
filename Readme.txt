@@ -1,1 +1,2 @@
-My name is Juste. I'm student 
+My name is Juste. 
+I'm student of Esgis
